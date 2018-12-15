@@ -7,7 +7,7 @@ Scale from 1-6 where A = 6 and F = 1
 1. Download this project and unzip it
 2. Open Google Chrome
 3. Go to chrome://extensions/ and check the box for Developer mode in the top right
-4. Click on "Load Unpacked Extention..."
+4. Click on "Load Unpacked Extension..."
 5. Locate the unzipped folder containing this projects 4 files
 
 
