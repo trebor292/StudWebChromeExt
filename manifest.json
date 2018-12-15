@@ -1,13 +1,13 @@
     {
         "name": "StudWeb Average Grade",
-        "version": "1.0.5",
+        "version": "1.0.6",
         "manifest_version": 2,
 
         "page_action": {
         "default_icon": {
             "128": "icon128.png"
         },
-        "default_title": "StudWeb Average Grade \n Scale of 1-6 \n A = 6 - F = 1"
+        "default_title": "StudWeb Average Grade \n Scale of 1-5 \n A = 5 - E = 1"
         }, 
         "content_scripts": [
             {
