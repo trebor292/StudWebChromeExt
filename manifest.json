@@ -7,7 +7,7 @@
         "default_icon": {
             "128": "icon128.png"
         },
-        "default_title": "StudWeb Average Grade \n Scale of 1-5 \n A = 5 - E = 1"
+        "default_title": "StudWeb Average Grade \n Scale from 1-5 \n A = 5 - E = 1"
         }, 
         "content_scripts": [
             {
