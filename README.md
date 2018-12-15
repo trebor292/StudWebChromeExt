@@ -1,6 +1,6 @@
 # StudWebChromeExt
 Chrome extension for getting average grade on StudentWeb
-Scale from 1-6 where A = 6 and F = 1
+Scale from 1-6 where A = 5 and E = 1
 
 
 #How to install:
